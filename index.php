@@ -2,7 +2,6 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8"
-    <TITLE>Deployment Test</TITLE>
 </head>
 <body>
 <h1>Page Title</h1>
@@ -12,19 +11,14 @@
     <li>List item 2</li>
 </ul>
 
+<?
+ echo 3 * 4;
+
+?>
+
 
 
 
 
 </body>
 </html>
-/**
- * Created by PhpStorm.
- * User: 1310746
- * Date: 19/10/2015
- * Time: 14:28
- */
-class index
-{
-
-}
