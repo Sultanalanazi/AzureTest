@@ -12,8 +12,8 @@
 </ul>
 
 <?
- echo 3 * 4;
-
+ echo "<p>" . 3 * 4 . "</p>";
+echo "<p>Hello my name is bob</p>";
 ?>
 
 
